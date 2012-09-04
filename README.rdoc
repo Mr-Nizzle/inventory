@@ -1,1 +1,7 @@
 == Minimal Inventory Example.
+
+Test it
+    
+    Try this code using `rails c`
+
+    >> rails c
